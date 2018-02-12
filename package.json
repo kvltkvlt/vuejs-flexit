@@ -1,0 +1,19 @@
+{
+  "name": "flexit-frontend",
+  "version": "1.0.0",
+  "description": "vuejs frontend for flexit website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kvltkvlt/vuejs-flexit.git"
+  },
+  "author": "kvlt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kvltkvlt/vuejs-flexit/issues"
+  },
+  "homepage": "https://github.com/kvltkvlt/vuejs-flexit#readme"
+}
